@@ -4,7 +4,6 @@ import android.content.Context
 import android.database.sqlite.SQLiteDatabase
 import org.jetbrains.anko.db.*
 
-//TODO Buat dan atur kelas MyDatabaseHelper
 
 class MyDatabaseHelper(context: Context) : ManagedSQLiteOpenHelper(context, "database_student.db", null, 1) {
 

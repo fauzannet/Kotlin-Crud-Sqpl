@@ -26,9 +26,6 @@ class MainActivity : AppCompatActivity() {
         main_rv_list_data.layoutManager = layoutManager
         main_rv_list_data.adapter = adapter
 
-        /* Event listener untuk pindah ke activity AddStudentActivity
-        *
-        * */
         main_cv_add_data.onClick {
             startActivity(intentFor<AddStudentActivity>())
         }
