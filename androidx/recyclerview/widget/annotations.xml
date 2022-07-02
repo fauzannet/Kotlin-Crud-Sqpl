@@ -1,0 +1,5 @@
+<root>
+    <item name='androidx.recyclerview.widget.LinearLayoutManager VERTICAL'>
+        <annotation name='org.jetbrains.annotations.Nullable'/>
+    </item>
+</root>

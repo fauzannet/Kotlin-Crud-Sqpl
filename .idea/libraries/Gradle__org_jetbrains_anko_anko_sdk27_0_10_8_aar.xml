@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.anko:anko-sdk27:0.10.8@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7bd6e4a23a904e2bc538ce9bac556165/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c7da96b5574d575db111f209404e5c33/jetified-anko-sdk27-0.10.8/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c7da96b5574d575db111f209404e5c33/jetified-anko-sdk27-0.10.8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c7da96b5574d575db111f209404e5c33/jetified-anko-sdk27-0.10.8/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko-sdk27/0.10.8/48053c3985b44bacd3003713b0cfeb7b75cca232/anko-sdk27-0.10.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
